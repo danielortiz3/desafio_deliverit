@@ -60,7 +60,6 @@ Foi criada uma database em <b>postgres</b>, dentro de um <b>docker</b>.
  <li><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></li>
  <li><a href="https://www.postgresql.org/about/" rel="nofollow">PostgreSQL</a></li>
  <li><a href="https://www.docker.com/" rel="nofollow">Docker</a></li>
- <li><a href="https://www.genymotion.com/" rel="nofollow">Genymotion</a></li> 
 </ul>
 
 ## License
